@@ -1,7 +1,7 @@
 const laguFavorit= [
     ["Isolation","NightHawk22","610k","25k", "NightHawk22.jpg", "Isolation.mp3"],
     ["Shiawase (VIP)","Dion Timmer","430k","65k", "Shiawase-VIP.jpg", "Shiawase (VIP).mp3"],
-    ["Otonoke","Creepy Nuts","2,28M","517k", "DandaDan(01).jpg", "Otonoke.mp3"],
+    ["Otonoke","Creepy Nuts","2,28M","517k", "DanDaDan(01).jpg", "Otonoke.mp3"],
   ];
 
 
